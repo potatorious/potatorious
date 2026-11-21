@@ -28,7 +28,9 @@
       <text x="26" y="160">still learning. still building.</text>
       <text x="26" y="193">under construction.</text>
       <text x="26" y="262">PS C:\Users\potatorious&gt;</text>
-      <rect x="314" y="242" width="12" height="22" fill="#f1f1f1"/>
+      <rect x="314" y="242" width="12" height="22" fill="#f1f1f1">
+        <animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
+      </rect>
     </g>
   </g>
   <rect x="0.75" y="0.75" width="1098.5" height="328.5" rx="12.3" fill="none" stroke="#474747" stroke-width="1.5"/>
