@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal.gif" alt="potatorious Windows 11 terminal — still learning, still building. Under construction." width="900" />
+<img src="./assets/terminal_profile.gif" alt="potatorious Windows 11 terminal — profile data: learning, in progress." width="900" />
 
 </div>
 
