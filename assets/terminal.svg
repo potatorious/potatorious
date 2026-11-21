@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="272" viewBox="0 0 1000 272" role="img" aria-labelledby="title desc">
+  <title id="title">potatorious terminal</title>
+  <desc id="desc">A dark terminal showing: Still learning, still building. Status: under construction.</desc>
+  <rect width="1000" height="272" rx="16" fill="#0b1012"/>
+  <rect x="1" y="1" width="998" height="270" rx="15" fill="none" stroke="#274035" stroke-width="2"/>
+  <path d="M1 48 H999" stroke="#23352d" stroke-width="2"/>
+  <circle cx="28" cy="25" r="6" fill="#fb6a63"/>
+  <circle cx="50" cy="25" r="6" fill="#f3bd4f"/>
+  <circle cx="72" cy="25" r="6" fill="#45c77b"/>
+  <text x="500" y="31" text-anchor="middle" font-family="monospace" font-size="17" fill="#82988b">potatorious — bash</text>
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="25">
+    <text x="42" y="101" fill="#69e99d">$ whoami</text>
+    <text x="42" y="139" fill="#e0eee6">still learning. still building.</text>
+    <text x="42" y="190" fill="#69e99d">$ status</text>
+    <text x="42" y="228" fill="#e0eee6">under construction</text>
+    <rect x="310" y="207" width="13" height="24" rx="1" fill="#69e99d"/>
+  </g>
+</svg>
